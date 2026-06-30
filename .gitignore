@@ -1,0 +1,11 @@
+.jetro/
+.cursor/
+.agents/
+.qodo/
+.github/
+.mcp.json
+.windsurfrules
+AGENT.md
+CLAUDE.md
+data/
+projects/
